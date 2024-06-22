@@ -12,9 +12,5 @@ public class User {
         this.description = d;
         this.id = i;
         this.followed = f;
-
     }
-
-
-
 }
